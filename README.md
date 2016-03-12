@@ -7,5 +7,5 @@ Usage: java -jar jdgui-lines-fixer.jar /path/to/source.zip /path/to/output.zip
 Example of why I needed this:
 
 <p align="center">
-  <img src="resources/screen.png" width="350"/>
+  <img src="resources/screen.jpg" width="350"/>
 </p>
