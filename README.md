@@ -10,3 +10,11 @@ On the left - the original source as outputed by JDGUI. On the right, after runn
 <p align="center">
   <img src="resources/screen.jpg" width="350"/>
 </p>
+
+
+## Build
+
+```
+mvn install
+mvn package
+```
