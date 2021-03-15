@@ -176,7 +176,7 @@ public class SourceFixer
 
 	private static void writeStrToOs(String str, OutputStream os) throws IOException
 	{
-		for (int ch : str.value)
+		for (int ch : str.toCharArray())
 		{
 			os.write(ch);
 		}
